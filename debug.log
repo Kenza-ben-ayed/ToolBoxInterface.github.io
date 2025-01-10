@@ -1,0 +1,11 @@
+
+        <div class="viewer-header draggable">
+          <span class="viewer-title"><i class="fa fa-eye"></i> Final Viewer</span>
+          <span class="close" id="close-viewer">×</span>
+        </div>
+        <div id="viewer-body" class="viewer-body"><div class="content-container" contenteditable="true">afadazd<span class="delete-icon" style="display: none;">🗑</span><span class="delete-icon" style="display: none;">🗑</span><span class="delete-icon" style="display: none;">🗑</span><span class="delete-icon" style="display: none;">🗑</span><span class="delete-icon" style="display: none;">🗑</span></div><div class="content-container" contenteditable="true">afadazd<span class="delete-icon" style="display: none;">🗑</span></div><div class="content-container" contenteditable="true"><embed src="teacher_assets/file_677f9c84662906.53585523.pdf" type="application/pdf" style="width: 100%; height: 500px;"><span class="delete-icon" style="display: none;">🗑</span></div><div class="content-container" contenteditable="true"><img src="teacher_assets/file_677f9c986ffb67.95568695.png" alt="Image" style="max-width: 100%;"><span class="delete-icon" style="display: none;">🗑</span></div><div class="content-container" contenteditable="true"><img src="teacher_assets/screenshot_1736416412.png" alt="Image" style="max-width: 100%;"><span class="delete-icon" style="display: none;">🗑</span></div></div>
+        <div class="viewer-footer">
+          <button id="generate-qr">Generate QR</button>
+        </div>
+        <div class="resizer" id="viewer-resizer"></div>
+      

@@ -220,7 +220,7 @@
   padding: 10px;
   display: flex;
   justify-content: flex-end;
-  border-top: 1px solid #ccc;
+  /* border-top: 1px solid #ccc; */
 }
 
 .viewer-footer .viewer-button {
@@ -812,7 +812,7 @@ input[type="checkbox"] {
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  border-top: 1px solid #ccc;
+  /* border-top: 1px solid #ccc; */
 }
 #toggle-tools {
   z-index: 1005;

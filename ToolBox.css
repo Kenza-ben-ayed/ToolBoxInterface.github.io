@@ -775,14 +775,14 @@ input[type="checkbox"] {
   visibility: visible;
 }
 .pen-modal {
-  top: 11% !important;
+  top: 15% !important;
   right: 80px !important;
   background-color: #f2f2f7;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.195);
   padding: 15px 5px !important;
 }
 #eraser-size-modal {
-  top: 15% !important;
+  top: 25% !important;
   right: 80px !important;
   padding: 10px 10px;
   background-color: #f2f2f7;
@@ -797,7 +797,7 @@ input[type="checkbox"] {
 }
 
 .file-image-modal {
-  top: 45% !important;
+  top: 40% !important;
   right: 80px !important;
   overflow: hidden;
   background-color: #f2f2f7;
